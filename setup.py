@@ -9,5 +9,5 @@ setup(
     author='Freewind',
     author_email='nowindlee@gmail.com',
     packages=['hello'],
-    install_requires=[]
+    install_requires=['flask']
 )
